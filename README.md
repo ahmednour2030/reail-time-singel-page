@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400">
 <img height="140"  src="https://user-images.githubusercontent.com/55291787/86028940-d3a29480-ba32-11ea-91fc-366ba59b0e34.jpg">
+<img height="100" src="https://user-images.githubusercontent.com/55291787/86030221-7c9dbf00-ba34-11ea-8762-3cf93aea0e02.jpeg">
 </p> 
 
 ## About Project
