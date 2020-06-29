@@ -12,28 +12,42 @@ laravel,vue.js , pusher and Mysql
 ## Main Page
 <img src="https://user-images.githubusercontent.com/55291787/86027796-70fcc900-ba31-11ea-8091-a5e4d6f26eae.PNG">
 
+***********************************************************************************
+
 ## Question page not Login
 <img src="https://user-images.githubusercontent.com/55291787/86027814-75c17d00-ba31-11ea-94c8-15487cfb7434.PNG">
+
+***********************************************************************************
 
 ## Login Page
 <img src="https://user-images.githubusercontent.com/55291787/86027825-79550400-ba31-11ea-902a-17fcbf501683.PNG">
 
+***********************************************************************************
+
 ## Singup page
 <img src="https://user-images.githubusercontent.com/55291787/86027831-7b1ec780-ba31-11ea-963f-fa68f4b76a43.PNG">
+
+***********************************************************************************
 
 ## Create Question Page
 <img src="https://user-images.githubusercontent.com/55291787/86027859-8114a880-ba31-11ea-8a6a-deb279f776a1.PNG">
 
+***********************************************************************************
+
 ## Create Comment Page
 <img src="https://user-images.githubusercontent.com/55291787/86027906-8a9e1080-ba31-11ea-80d3-b5c23cbdccc3.PNG">
+
+***********************************************************************************
 
 ## Main Page in Login
 <img src="https://user-images.githubusercontent.com/55291787/86027929-8d990100-ba31-11ea-883b-a79bbe0bb11b.PNG">
 
+***********************************************************************************
+
 ## Create Category
 <img src="https://user-images.githubusercontent.com/55291787/86027943-8ffb5b00-ba31-11ea-9f82-77d7c3b343c2.PNG">
 
-**********************************************************
+***********************************************************************************
 
 ## About Laravel
 
