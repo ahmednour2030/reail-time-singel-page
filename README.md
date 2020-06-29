@@ -1,11 +1,23 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400">
+<img width="200"  src="https://user-images.githubusercontent.com/55291787/86028940-d3a29480-ba32-11ea-91fc-366ba59b0e34.jpg">
+</p> 
+
+## About Project
+
+laravel,vue.js , pusher and Mysql
+
+***************************************************
+<img src="https://user-images.githubusercontent.com/55291787/86027796-70fcc900-ba31-11ea-8091-a5e4d6f26eae.PNG">
+<img src="https://user-images.githubusercontent.com/55291787/86027814-75c17d00-ba31-11ea-94c8-15487cfb7434.PNG">
+<img src="https://user-images.githubusercontent.com/55291787/86027825-79550400-ba31-11ea-902a-17fcbf501683.PNG">
+<img src="https://user-images.githubusercontent.com/55291787/86027831-7b1ec780-ba31-11ea-963f-fa68f4b76a43.PNG">
+<img src="https://user-images.githubusercontent.com/55291787/86027859-8114a880-ba31-11ea-8a6a-deb279f776a1.PNG">
+<img src="https://user-images.githubusercontent.com/55291787/86027906-8a9e1080-ba31-11ea-80d3-b5c23cbdccc3.PNG">
+<img src="https://user-images.githubusercontent.com/55291787/86027929-8d990100-ba31-11ea-883b-a79bbe0bb11b.PNG">
+<img src="https://user-images.githubusercontent.com/55291787/86027943-8ffb5b00-ba31-11ea-9f82-77d7c3b343c2.PNG">
+
+**********************************************************
 
 ## About Laravel
 
