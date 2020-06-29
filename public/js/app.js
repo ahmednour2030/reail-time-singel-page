@@ -67371,7 +67371,7 @@ var render = function() {
               _c(
                 "router-link",
                 { staticClass: "white--text", attrs: { to: "/" } },
-                [_vm._v("Bitfumes")]
+                [_vm._v("Ask and Questions")]
               )
             ],
             1
@@ -67550,7 +67550,7 @@ var render = function() {
                 _c("v-divider", { staticClass: "mb-3" }),
                 _vm._v(" "),
                 _c(
-                  "v-list-titl",
+                  "v-list-ite",
                   [
                     _c(
                       "v-list-tile-actions",
@@ -67668,15 +67668,15 @@ var render = function() {
           "v-list",
           { key: category.id, staticClass: "ml-2" },
           [
-            _c("v-divider", { staticClass: "mb-3" }),
+            _c("v-divider", { staticClass: "mb-1" }),
             _vm._v(" "),
             _c(
-              "v-list-tile",
+              "v-list-item",
               [
                 _c(
-                  "v-list-tile-content",
+                  "v-list-item-content",
                   [
-                    _c("v-list-tile-title", [
+                    _c("v-list-item-title", [
                       _vm._v(
                         "\n                  " +
                           _vm._s(category.name) +
@@ -125645,7 +125645,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(vue__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var vue_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vue-router */ "./node_modules/vue-router/dist/vue-router.esm.js");
-/* harmony import */ var _components_Parallex__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../components/Parallex */ "./resources/js/components/Parallex.vue");
+/* harmony import */ var _components_Parallex__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Parallex */ "./resources/js/components/Parallex.vue");
 /* harmony import */ var _components_Login_Login__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Login/Login */ "./resources/js/components/Login/Login.vue");
 /* harmony import */ var _components_Login_signup__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Login/signup */ "./resources/js/components/Login/signup.vue");
 /* harmony import */ var _components_forum_Forum__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/forum/Forum */ "./resources/js/components/forum/Forum.vue");
@@ -125666,7 +125666,7 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_router__WEBPACK_IMPORTED_MODU
 
 var routes = [{
   path: '/',
-  component: _components_Parallex__WEBPACK_IMPORTED_MODULE_10__["default"]
+  component: _components_Parallex__WEBPACK_IMPORTED_MODULE_2__["default"]
 }, {
   path: '/login',
   component: _components_Login_Login__WEBPACK_IMPORTED_MODULE_3__["default"]
@@ -127295,8 +127295,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! I:\Ahmed Mohamed\Courses\SaleWebDesgin\SaleWebDesign.com-Pusher-Laravel-vuejs\real-time-single-page\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! I:\Ahmed Mohamed\Courses\SaleWebDesgin\SaleWebDesign.com-Pusher-Laravel-vuejs\real-time-single-page\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! I:\Ahmed Mohamed\Courses\SaleWebDesgin\SaleWebDesign.com-Pusher-Laravel-vuejs\reail-time-singel-page\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! I:\Ahmed Mohamed\Courses\SaleWebDesgin\SaleWebDesign.com-Pusher-Laravel-vuejs\reail-time-singel-page\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ }),

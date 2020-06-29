@@ -13,14 +13,14 @@
 
     </v-toolbar>
     <v-list v-for="category in categories" :key="category.id" class="ml-2">
-        <v-divider class="mb-3"></v-divider>
-        <v-list-tile>
-            <v-list-tile-content>
-                <v-list-tile-title>
+        <v-divider class="mb-1"></v-divider>
+        <v-list-item>
+            <v-list-item-content>
+                <v-list-item-title>
                     {{category.name}}
-                </v-list-tile-title>
-            </v-list-tile-content>
-        </v-list-tile>
+                </v-list-item-title>
+            </v-list-item-content>
+        </v-list-item>
     </v-list>
 
   </v-card>

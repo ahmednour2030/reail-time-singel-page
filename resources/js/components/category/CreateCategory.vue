@@ -57,7 +57,7 @@
 
             <v-list v-for="(category,index) in categories" :key="category.id"  class="ml-2">
                 <v-divider class="mb-3"></v-divider>
-                <v-list-titl>
+                <v-list-ite>
                     <v-list-tile-actions>
                         <v-btn icon @click="edit(index)">
                             <v-icon color="blue darken-2">edit</v-icon>
@@ -76,7 +76,7 @@
                         </v-btn>
 
                     </v-list-tile-actions>
-                </v-list-titl>
+                </v-list-ite>
             </v-list>
         </v-card>
 

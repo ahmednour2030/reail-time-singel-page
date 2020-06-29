@@ -5,7 +5,7 @@
             <v-app-bar-nav-icon></v-app-bar-nav-icon>
 
         <v-toolbar-title >
-            <router-link class="white--text" to="/">Bitfumes</router-link>
+            <router-link class="white--text" to="/">Ask and Questions</router-link>
         </v-toolbar-title>
 
             <v-spacer></v-spacer>
